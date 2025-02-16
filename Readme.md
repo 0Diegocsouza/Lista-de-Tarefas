@@ -1,4 +1,4 @@
-Projeto: Lista de Tarefas Simples
+Projeto: Lista de Tarefas
 
 Este projeto é uma aplicação web básica desenvolvida com HTML, CSS e JavaScript que permite ao usuário gerenciar uma lista de tarefas de forma intuitiva e eficiente. A interface é simples e amigável, onde o usuário pode:
 
